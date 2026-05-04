@@ -1,3 +1,6 @@
+
+"This is my personal implementation of a Movie Recommender System, built upon the original project."
+
 # Project: Movie Recommender System Using Machine Learning!
 
 <img src="demo/6.jpeg" alt="workflow" width="70%">
